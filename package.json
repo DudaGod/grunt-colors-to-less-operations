@@ -1,0 +1,44 @@
+{
+  "name": "grunt-colors-to-less-operations",
+  "description": "Converts colors to less color operation functions",
+  "version": "0.1.0",
+  "homepage": "https://github.com/DudaGod/grunt-colors-to-less-operations",
+  "author": {
+    "name": "DudaGod",
+    "email": "dyda06@mail.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DudaGod/grunt-colors-to-less-operations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DudaGod/grunt-colors-to-less-operations/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/DudaGod/grunt-colors-to-less-operations/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "color-model": "^0.2.2",
+    "glob": "^5.0.14",
+    "grunt": "~0.4.5",
+    "less": "^2.5.1",
+    "line-reader": "^0.2.4",
+    "replace": "^0.3.0",
+    "sprintf-js": "^1.0.3"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
