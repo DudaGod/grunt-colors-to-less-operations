@@ -1,7 +1,7 @@
 {
   "name": "grunt-colors-to-less-operations",
   "description": "Converts colors to less color operation functions",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "homepage": "https://github.com/DudaGod/grunt-colors-to-less-operations",
   "author": {
     "name": "DudaGod",
@@ -29,7 +29,6 @@
   "dependencies": {
     "color-model": "^0.2.2",
     "glob": "^5.0.14",
-    "grunt": "~0.4.5",
     "less": "^2.5.1",
     "line-reader": "^0.2.4",
     "replace": "^0.3.0",
