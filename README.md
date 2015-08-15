@@ -2,6 +2,8 @@
 
 > Converts colors to [less color operation functions](http://lesscss.org/functions/#color-operations)
 
+![](grunt-colors.gif)
+
 ## Install
 `npm install grunt-colors-to-less-operations --save-dev`
 
